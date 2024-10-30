@@ -1,4 +1,4 @@
-Installation (Should work on any chromium-based browser)
+Installation (Should work on any chromium-based desktop browser)
 
 1. Open bookmark manager
 2. Right-click "Add new bookmark"
