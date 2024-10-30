@@ -8,3 +8,6 @@ Chrome Installation
 Running it
 1. Make sure your bookmarks bar is visible
 2. Click the bookmark button while on fishtank.live
+
+Stopping it
+1. Refresh fishtank.live
