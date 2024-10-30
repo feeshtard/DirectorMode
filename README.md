@@ -6,8 +6,8 @@ Chrome Installation
 4. Paste the code from [burtgurt](burtgurt) into the "URL" field
 
 Running it
-1. Make sure your bookmarks bar is visible
-2. Click the bookmark button while on fishtank.live
+1. Make sure your bookmark bar is visible
+2. Click the DirectorMode bookmark while on fishtank.live
 
 Stopping it
 1. Refresh fishtank.live
